@@ -1,0 +1,254 @@
+
+.border-bottom{
+    border-width: 2px !important;
+    border-bottom-color:  #F5CE83!important;
+}
+
+.styleGUIDE{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    color:  rgba(75, 59,98, 1.0);
+    
+}
+
+.uxPORTFOILO{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    color:  rgba(75, 59,98, 1.0);
+}
+
+.author{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    color:  rgba(75, 59,98, 1.0);
+}
+
+h3{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    color:  rgba(75, 59,98, 1.0);
+}
+
+.obj{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    color:  rgba(75, 59,98, 1.0);
+    font-size: 28px;
+}
+
+#indigoBlock{
+    min-height: 6em;
+    min-width: 11em;
+    background-color: rgba(75, 59,98, 1.0);
+
+}
+
+#indigoMain{
+    min-height: 6em;
+    
+    background-color: rgba(75, 59,98, 1.0);
+
+}
+
+#indigoHalf{
+    min-height: 6em;
+  
+    background-color: rgba(75, 59,98, 0.5);
+
+}
+
+#yellowSec{
+    min-height: 6em;
+    background-color: #F5CE83;
+}
+
+#greenBlock{
+    min-height: 6em;
+    min-width: 11em;
+    background-color: #6F927E;
+
+}
+
+#yellowBlock{
+    min-height: 6em;
+    min-width: 11em;
+    background-color: #F5CE83;
+}
+
+#greyBlock{
+    min-height: 6em;
+    min-width: 11em;
+    background-color: #C6CBCC;
+}
+
+.card{
+   background-color: none;
+   border: none;
+
+}
+
+.oswald{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    color:  rgba(75, 59,98, 1.0);
+}
+
+.lgTitle{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    color:  rgba(75, 59,98, 1.0);
+    font-size: 80px;
+}
+
+.secHeader{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    color:  rgba(75, 59,98, 1.0);
+    font-size: 40px;
+}
+
+.subHeader{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    color:  rgba(75, 59,98, 1.0);
+    font-size: 40px;
+}
+
+.btm{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    color:  rgba(75, 59,98, 1.0);
+    font-size: 24px;
+}
+
+.quicksand{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+    color:  rgba(75, 59,98, 1.0);
+
+}
+
+.bodyText{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+    color:  rgba(75, 59,98, 1.0);
+    font-size: 16px;
+    letter-spacing: 0.05em;
+}
+
+.bodyBD{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    color:  rgba(75, 59,98, 1.0);
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.btmQ{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    color:  rgba(75, 59,98, 1.0);
+    font-size: 24px;
+}
+
+
+
+
+.btmQN{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    color:  rgba(75, 59,98, 1.0);
+    font-size: 24px;
+    border-bottom: solid;
+    
+}
+
+.btmQW{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    color:  rgba(75, 59,98, 1.0);
+    font-size: 24px;
+    border-bottom: solid;
+    border-bottom-width: 0.75rem;
+    
+}
+
+.btmQRound{
+    padding: 0.2rem 1.75rem;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    color:  rgba(75, 59,98, 1.0);
+    font-size: 24px;
+    border: 0.2rem solid;
+    border-radius: 20px;
+}
+
+.btmQRoundHover{
+    margin-top: 0.5rem;
+    padding: 0.2rem 1.75rem;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    color:  #F5CE83;
+    background-color:  rgba(75, 59,98, 1.0);
+    font-size: 24px;
+    border: 0.2rem solid  rgba(75, 59,98, 1.0);
+    border-radius: 20px;
+}
+
+.typeStyle{
+    font-family: 'Open Sans', sans-serif;
+    color:  rgba(75, 59,98, 1.0);
+}
+
+
+.card-footer{
+    line-height: 0;
+    font-size: small;
+    
+}
+
+.btmA{
+    font-family: 'Oswald', sans-serif;
+    color:  rgba(75, 59,98, 0.5);
+    font-weight: 500;
+    font-size: 24px;
+    
+
+}
+
+.btmH{
+    font-family: 'Oswald', sans-serif;
+    color:  rgba(75, 59,98, 1.0);
+    font-weight: 500;
+    font-size: 24px;
+    
+
+}
+
+.gridNote{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+    color:  rgba(75, 59,98, 1.0);
+    font-size: 20px;
+}
+
+.d-flex{
+   border-width: 2px !important;
+   border-bottom-color:  #F5CE83!important;
+}
+
+.btn{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 32px;
+    color:  rgba(75, 59,98, 1.0);
+}
+
+.btn-link {
+    color:rgba(75, 59, 98, 0.75);
+}
+.btn-link:hover {
+    color: rgba(75, 59, 98, 1.0);
+
+}
+
